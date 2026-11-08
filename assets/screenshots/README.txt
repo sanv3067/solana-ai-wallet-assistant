@@ -1,0 +1,1 @@
+Save screenshots of the running Streamlit app in this folder before submitting your project.\n
